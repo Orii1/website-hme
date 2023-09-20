@@ -65,7 +65,7 @@
           <h2>Seluas Langit Sedalam Samudera. HME JAYA!</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Join Us</a>
-            <a href="https://www.youtube.com/watch?v=3e7gNnnQo2g" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -147,8 +147,10 @@
               Wassalamualaikum Wr. Wb.
             </p>
 
-            <p>
-              <b>Ketua Umum Himpunan Mahasiswa Eletro Politeknik Negeri Banjarmasin Periode 2023/2024</b>
+            <b style="font-size: 17px;">Muhammad Ribhuttajar</b> <br>
+
+            <p style="font-size: 15px;">
+              <b>Ketua Umum Himpunan Mahasiswa Elektro Politeknik Negeri Banjarmasin Periode 2023/2024</b>
             </p>
           </div>
         </div>
@@ -296,12 +298,9 @@
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-app">Tahunan</li>
-          <li data-filter=".filter-card">Div.Keagamaan</li>
-          <li data-filter=".filter-web">Div.Mikat</li>
-          <li data-filter=".filter-card">Div.Medinfo</li>
-          <li data-filter=".filter-web">Div.Bidik</li>
-          <li data-filter=".filter-card">Div.Humas</li>
+          <li data-filter=".filter-card">Divisi</li>
         </ul>
+
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
